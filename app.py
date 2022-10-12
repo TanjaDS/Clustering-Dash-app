@@ -27,7 +27,7 @@ app.layout = html.Div([ # create a container
         style={'text-align':'center'}
         ),
     html.H2( # layout's subtitle
-        children='Tatiana Ilyasova, 2022-05-09',
+        children='Tatiana I., 2022-05-09',
         style={'text-align':'center'}
         ),
     dbc.Button( # create a button calling the 'Countries Data' layout
