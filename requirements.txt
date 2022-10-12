@@ -1,0 +1,10 @@
+dash==2.6.2
+dash_bootstrap_components==1.2.1
+hdbscan==0.8.28
+numpy==1.23.3
+pandas==1.5.0
+plotly==5.10.0
+scikit_learn==1.1.2
+umap-learn==0.5.2
+wbgapi==1.0.12
+gunicorn==20.1.0

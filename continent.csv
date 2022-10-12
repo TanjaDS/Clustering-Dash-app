@@ -1,0 +1,239 @@
+iso_code,Continent,Country,Obesity adult
+AFG,Asia,Afghanistan,5.50
+OWID_AFR,,Africa
+ALB,Europe,Albania,27.40
+DZA,Africa,Algeria,27.40
+AND,Europe,Andorra,25.6
+AGO,Africa,Angola,8.20
+AIA,North America,Anguilla
+ATG,North America,Antigua and Barbuda,18.9
+ARG,South America,Argentina,28.9
+ARM,Asia,Armenia,20.2
+ABW,North America,Aruba
+OWID_ASI,,Asia
+AUS,Oceania,Australia,29.0
+AUT,Europe,Austria,20.1
+AZE,Asia,Azerbaijan,19.9
+BHS,North America,Bahamas,31.6
+BHR,Asia,Bahrain,29.8
+BGD,Asia,Bangladesh,3.6
+BRB,North America,Barbados,23.1
+BLR,Europe,Belarus,24.5
+BEL,Europe,Belgium,22.1
+BLZ,North America,Belize,24.1
+BEN,Africa,Benin,9.6
+BMU,North America,Bermuda,34.4
+BTN,Asia,Bhutan,6.4
+BOL,South America,Bolivia,20.2
+BES,North America,Bonaire Sint Eustatius and Saba
+BIH,Europe,Bosnia and Herzegovina,17.9
+BWA,Africa,Botswana,18.9
+BRA,South America,Brazil,22.1
+VGB,North America,British Virgin Islands
+BRN,Asia,Brunei,14.1
+BGR,Europe,Bulgaria,25.0
+BFA,Africa,Burkina Faso,5.6
+BDI,Africa,Burundi,5.4
+KHM,Asia,Cambodia,3.9
+CMR,Africa,Cameroon,11.4
+CAN,North America,Canada,29.4
+CPV,Africa,Cape Verde,11.8
+CYM,North America,Cayman Islands
+CAF,Africa,Central African Republic,7.5
+TCD,Africa,Chad,6.1
+CHL,South America,Chile,28.0
+CHN,Asia,China,6.2
+COL,South America,Colombia,22.3
+COM,Africa,Comoros,7.8
+COG,Africa,Congo,9.6
+COK,Oceania,Cook Islands,55.9
+CRI,North America,Costa Rica,25.7
+CIV,Africa,Cote d'Ivoire,10.3
+HRV,Europe,Croatia,24.4
+CUB,North America,Cuba,24.6
+CUW,North America,Curacao
+CYP,Europe,Cyprus,21.8
+CZE,Europe,Czechia,26.0
+COD,Africa,Democratic Republic of Congo,6.7
+DNK,Europe,Denmark,19.7
+DJI,Africa,Djibouti,13.5
+DMA,North America,Dominica,27.9
+DOM,North America,Dominican Republic,27.6
+ECU,South America,Ecuador,19.9
+EGY,Africa,Egypt,32.0
+SLV,North America,El Salvador,24.6
+GNQ,Africa,Equatorial Guinea,8.0
+ERI,Africa,Eritrea,5.0
+EST,Europe,Estonia,21.2
+SWZ,Africa,Eswatini,16.5
+ETH,Africa,Ethiopia,4.5
+OWID_EUR,,Europe
+OWID_EUN,,European Union
+FRO,Europe,Faeroe Islands
+FLK,South America,Falkland Islands
+FJI,Oceania,Fiji,30.2
+FIN,Europe,Finland,22.2
+FRA,Europe,France,21.6
+PYF,Oceania,French Polynesia
+GAB,Africa,Gabon,15.0
+GMB,Africa,Gambia,10.3
+GEO,Asia,Georgia,21.7
+DEU,Europe,Germany,22.3
+GHA,Africa,Ghana,10.9
+GIB,Europe,Gibraltar
+GRC,Europe,Greece,24.9
+GRL,North America,Greenland,25
+GRD,North America,Grenada,21.3
+GTM,North America,Guatemala,21.2
+GGY,Europe,Guernsey
+GIN,Africa,Guinea,7.7
+GNB,Africa,Guinea-Bissau,9.5
+GUY,South America,Guyana,20.2
+HTI,North America,Haiti,22.7
+OWID_HIC,,High income
+HND,North America,Honduras,21.4
+HKG,Asia,Hong Kong
+HUN,Europe,Hungary,26.4
+ISL,Europe,Iceland,25.3
+IND,Asia,India,3.9
+IDN,Asia,Indonesia,6.9
+OWID_INT,,International
+IRN,Asia,Iran,25.8
+IRQ,Asia,Iraq,30.4
+IRL,Europe,Ireland,25.3
+IMN,Europe,Isle of Man
+ISR,Asia,Israel,26.1
+ITA,Europe,Italy,19.9
+JAM,North America,Jamaica,24.7
+JPN,Asia,Japan,4.3
+JEY,Europe,Jersey
+JOR,Asia,Jordan,35.5
+KAZ,Asia,Kazakhstan,21.0
+KEN,Africa,Kenya,7.1
+KIR,Oceania,Kiribati,46.0
+OWID_KOS,Europe,Kosovo
+KWT,Asia,Kuwait,37.9
+KGZ,Asia,Kyrgyzstan,16.6
+LAO,Asia,Laos,5.3
+LVA,Europe,Latvia,23.6
+LBN,Asia,Lebanon,32.0
+LSO,Africa,Lesotho,16.6
+LBR,Africa,Liberia,9.9
+LBY,Africa,Libya,32.5
+LIE,Europe,Liechtenstein
+LTU,Europe,Lithuania,26.3
+OWID_LIC,,Low income
+OWID_LMC,,Lower middle income
+LUX,Europe,Luxembourg,22.6
+MAC,Asia,Macao
+MDG,Africa,Madagascar,5.3
+MWI,Africa,Malawi,5.8
+MYS,Asia,Malaysia,15.6
+MDV,Asia,Maldives,8.6
+MLI,Africa,Mali,8.6
+MLT,Europe,Malta,28.9
+MHL,Oceania,Marshall Islands,52.9
+MRT,Africa,Mauritania,12.7
+MUS,Africa,Mauritius,10.8
+MEX,North America,Mexico,28.9
+FSM,Oceania,Micronesia (country),45.8
+MDA,Europe,Moldova,18.9
+MCO,Europe,Monaco
+MNG,Asia,Mongolia,20.6
+MNE,Europe,Montenegro,23.3
+MSR,North America,Montserrat
+MAR,Africa,Morocco,26.1
+MOZ,Africa,Mozambique,7.2
+MMR,Asia,Myanmar,4
+NAM,Africa,Namibia,17.2
+NRU,Oceania,Nauru,61.0
+NPL,Asia,Nepal,4.1
+NLD,Europe,Netherlands,20.4
+NCL,Oceania,New Caledonia
+NZL,Oceania,New Zealand,30.8
+NIC,North America,Nicaragua,23.7
+NER,Africa,Niger,5.5
+NGA,Africa,Nigeria,8.9
+NIU,Oceania,Niue,50.0
+OWID_NAM,,North America
+MKD,Europe,North Macedonia,22.4
+OWID_CYN,Asia,Northern Cyprus
+NOR,Europe,Norway,23.1
+OWID_OCE,,Oceania
+OMN,Asia,Oman,27.0
+PAK,Asia,Pakistan,8.6
+PLW,Oceania,Palau,55.3
+PSE,Asia,Palestine,26.8
+PAN,North America,Panama,22.7
+PNG,Oceania,Papua New Guinea,21.3
+PRY,South America,Paraguay,20.3
+PER,South America,Peru,19.7
+PHL,Asia,Philippines,6.4
+PCN,Oceania,Pitcairn
+POL,Europe,Poland,23.1
+PRT,Europe,Portugal,20.8
+QAT,Asia,Qatar,35.1
+ROU,Europe,Romania,22.5
+RUS,Europe,Russia,23.1
+RWA,Africa,Rwanda,5.8
+SHN,Africa,Saint Helena
+KNA,North America,Saint Kitts and Nevis,22.9
+LCA,North America,Saint Lucia,19.7
+SPM,North America,Saint Pierre and Miquelon
+VCT,North America,Saint Vincent and the Grenadines,23.7
+WSM,Oceania,Samoa,47.3
+SMR,Europe,San Marino
+STP,Africa,Sao Tome and Principe,12.4
+SAU,Asia,Saudi Arabia,35.4
+SEN,Africa,Senegal,8.8
+SRB,Europe,Serbia,21.5
+SYC,Africa,Seychelles,14.0
+SLE,Africa,Sierra Leone,8.7
+SGP,Asia,Singapore,6.1
+SXM,North America,Sint Maarten (Dutch part)
+SVK,Europe,Slovakia,20.5
+SVN,Europe,Slovenia,20.2
+SLB,Oceania,Solomon Islands,22.5
+SOM,Africa,Somalia,8.3
+ZAF,Africa,South Africa,28.3
+OWID_SAM,,South America
+KOR,Asia,South Korea,4.7
+SSD,Africa,South Sudan,6.6
+ESP,Europe,Spain,23.8
+LKA,Asia,Sri Lanka,5.2
+SDN,Africa,Sudan,6.6
+SUR,South America,Suriname,26.4
+SWE,Europe,Sweden,20.6
+CHE,Europe,Switzerland,19.5
+SYR,Asia,Syria,27.8
+TWN,Asia,Taiwan,22.8
+TJK,Asia,Tajikistan,14.2
+TZA,Africa,Tanzania,8.4
+THA,Asia,Thailand,10.0
+TLS,Asia,Timor,3.8
+TGO,Africa,Togo,8.4
+TKL,Oceania,Tokelau
+TON,Oceania,Tonga,48.2
+TTO,North America,Trinidad and Tobago,18.6
+TUN,Africa,Tunisia,26.9
+TUR,Asia,Turkey,32.1
+TKM,Asia,Turkmenistan,18.6
+TCA,North America,Turks and Caicos Islands
+TUV,Oceania,Tuvalu,51.6
+UGA,Africa,Uganda,5.3
+UKR,Europe,Ukraine,24.1
+ARE,Asia,United Arab Emirates,31.7
+GBR,Europe,United Kingdom,27.8
+USA,North America,United States,36.2
+OWID_UMC,,Upper middle income
+URY,South America,Uruguay,27.9
+UZB,Asia,Uzbekistan,16.6
+VUT,Oceania,Vanuatu,25.2
+VAT,Europe,Vatican
+VEN,South America,Venezuela,25.6
+VNM,Asia,Vietnam,2.1
+WLF,Oceania,Wallis and Futuna
+OWID_WRL,,World
+YEM,Asia,Yemen,17.1
+ZMB,Africa,Zambia,8.1
+ZWE,Africa,Zimbabwe,15.5
